@@ -16,7 +16,7 @@ Hi, I'm **Mythri**, a Data and Business Analyst with 4+ years of experience turn
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mythripotluri1/)
 
 ---
 
