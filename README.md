@@ -3,7 +3,7 @@
 Hi, I'm **Mythri**, a Data and Business Analyst with 4+ years of experience turning business questions into measurable KPIs, predictive models, and executive-ready dashboards. Always up for a challenge & building something cool with data! 🚀
 
 ### 💼 Experience:
-- **Data Analyst** at InfoSoftSol (May 2025 – Present): Architecting 10+ self-service dashboards in Power BI, Tableau, and R Shiny, cutting ad-hoc requests by 30% and enabling real-time KPI visibility.
+- **Data Analyst** at InfoSoftSol: Architecting 10+ self-service dashboards in Power BI, Tableau, and R Shiny, cutting ad-hoc requests by 30% and enabling real-time KPI visibility.
 - **Risk Information Systems Specialist** at Uddhata Technologies: Managed Agile backlog, documented requirements, and automated financial validation using SQL Server.
 - **Business & Marketing Analyst** at Prominent Overseas Careers: Built dashboards consolidating 5+ marketing channels and created A/B testing frameworks improving conversions by 12%.
 
