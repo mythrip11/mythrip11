@@ -1,6 +1,6 @@
 # 👋 About Me:
 
-Hi, I'm **Mythri**, a Data and Business Analyst with 4+ years of experience turning business questions into measurable KPIs, predictive models, and executive-ready dashboards. Always up for a challenge & building something cool with data! 🚀
+Hi, I'm **Mythri**, a Data and Business Analyst with 4+ years of experience turning business questions into measurable KPIs, predictive models, and executive-ready dashboards. Skilled in SQL, Python, Power BI, Tableau, and R Shiny, with applied training in Machine Learning, Generative AI, LLMs, RAG and Hugging Face for building AI-driven analytics and automations. Always up for a challenge & building something cool with data! 🚀
 
 ### 💼 Experience:
 - **Data Analyst** at InfoSoftSol: Architecting 10+ self-service dashboards in Power BI, Tableau, and R Shiny, cutting ad-hoc requests by 30% and enabling real-time KPI visibility.
