@@ -11,14 +11,12 @@ Hi, I'm **Mythri**, a Data and Business Analyst with 4+ years of experience turn
 📊 Building dashboards & data visualizations | 🔍 Exploratory data analysis & storytelling | 🤖 Machine Learning & Generative AI | 📈 Predictive modeling & forecasting | 💡 Business intelligence & strategy
 
 ### 🚀 Always up for a challenge & building something cool with data!
-[LinkedIn](https://www.linkedin.com/in/mythripotluri1/) | [Portfolio](https://mythri-portfolio-cyan.vercel.app/)
 
 ---
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mythrip11@gmail.com)
 
 ---
 
@@ -47,14 +45,4 @@ Hi, I'm **Mythri**, a Data and Business Analyst with 4+ years of experience turn
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Visio](https://img.shields.io/badge/Visio-%23117DBA.svg?style=for-the-badge&logo=microsoft-visio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)ere are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
