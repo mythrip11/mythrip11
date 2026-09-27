@@ -31,40 +31,40 @@ My expertise combines traditional business intelligence with cutting-edge AI eng
 ## 🛠 Tech Stack & Certifications:
 
 ### 🤖 AI, Gen AI & Machine Learning
-![Generative AI](https://shields.io)
-![LLMs](https://shields.io)
-![LangChain](https://shields.io)
-![LlamaIndex](https://shields.io)
-![Hugging Face](https://shields.io)
-![Claude API](https://shields.io)
-![Google Gemini](https://shields.io)
-![Scikit-Learn](https://shields.io)
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">
 
 ### 📊 Programming & BI Analytics
-![SQL](https://shields.io)
-![Python](https://shields.io)
-![R](https://shields.io)
-![Power BI](https://shields.io)
-![Tableau](https://shields.io)
-![R Shiny](https://shields.io)
-![Streamlit](https://shields.io)
-![Excel](https://shields.io)
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">
 
 ### ☁️ Cloud, Databases & DevOps
-![Databricks](https://shields.io)
-![Snowflake](https://shields.io)
-![AWS](https://shields.io)
-![Azure](https://shields.io)
-![GCP](https://shields.io)
-![Docker](https://shields.io)
-![SQL Server](https://shields.io)
-![MongoDB](https://shields.io)
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">
 
 ### ⚙️ Agile Frameworks & Tools
-![Jira](https://shields.io)
-![Confluence](https://shields.io)
-![Visio](https://shields.io)
-![Git](https://shields.io)
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">&nbsp;
+<img src="https://shields.io" height="35">
 
 
 ---
