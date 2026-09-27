@@ -38,7 +38,7 @@ My expertise combines traditional business intelligence with cutting-edge AI eng
 ![Hugging Face](https://shields.io)
 ![Claude API](https://shields.io)
 ![Google Gemini](https://shields.io)
-![Scikit-learn](https://shields.io)
+![Scikit-Learn](https://shields.io)
 
 ### 📊 Programming & BI Analytics
 ![SQL](https://shields.io)
@@ -65,6 +65,7 @@ My expertise combines traditional business intelligence with cutting-edge AI eng
 ![Confluence](https://shields.io)
 ![Visio](https://shields.io)
 ![Git](https://shields.io)
+
 
 ---
 
