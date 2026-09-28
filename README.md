@@ -74,7 +74,7 @@ My expertise combines traditional business intelligence with cutting-edge AI eng
 ---
 
 ## 🚀 Featured Project:
-### 🛡️ [Insurance Claims RAG Intelligence](https://github.com) (Live 🌐)
+### 🛡️ [Insurance Claims RAG Intelligence](https://github.com/mythrip11/Insurance-Claims-RAG-Intelligence) (Live 🌐)(https://insurance-claims-rag-intelligence.streamlit.app/)
 - **Tech Stack:** Python, Claude API, LlamaIndex, ChromaDB, Pydantic, Streamlit, Docker
 - Built a hybrid RAG + agentic AI system where an autonomous Claude-based agent investigates insurance claims for fraud. 
 - Integrates multi-step tool-use for policy retrieval, cross-claim matching, and outputs schema-validated, confidence-scored risk assessments via a live Dockerized Streamlit UI.
