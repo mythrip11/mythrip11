@@ -31,40 +31,44 @@ My expertise combines traditional business intelligence with cutting-edge AI eng
 ## 🛠 Tech Stack & Certifications:
 
 ### 🤖 AI, Gen AI & Machine Learning
-![Generative AI](https://img.shields.io/badge/Generative%20AI-%23FF6B6B.svg?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-%2300A4EF.svg?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://shields.io)
-![LlamaIndex](https://shields.io)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![Claude API](https://shields.io)
-![Google Gemini](https://shields.io)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6B6B.svg?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-00A4EF.svg?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6.svg?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 📊 Programming & BI Analytics
-![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![R Shiny](https://img.shields.io/badge/R%20Shiny-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Streamlit](https://shields.io)
-![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![R Shiny](https://img.shields.io/badge/R%20Shiny-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### ☁️ Cloud, Databases & DevOps
-![Databricks](https://shields.io)
-![Snowflake](https://shields.io)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://shields.io)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ⚙️ Agile Frameworks & Tools
-![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Visio](https://img.shields.io/badge/Visio-%23117DBA.svg?style=for-the-badge&logo=microsoft-visio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Visio](https://img.shields.io/badge/Visio-117DBA.svg?style=for-the-badge&logo=microsoft-visio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 ---
